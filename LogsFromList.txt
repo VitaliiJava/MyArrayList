@@ -1,0 +1,8 @@
+Tue Dec 20 20:13:53 EET 2016 first length of array = 12
+Tue Dec 20 20:13:53 EET 2016choose 0 Menu item
+Tue Dec 20 20:14:00 EET 2016 add 12 element to MyList
+Tue Dec 20 20:14:00 EET 2016choose 1 Menu item
+Tue Dec 20 20:14:14 EET 2016 first length of array = 12
+Tue Dec 20 20:14:14 EET 2016choose 0 Menu item
+Tue Dec 20 20:14:19 EET 2016 add 1 element to MyList
+Tue Dec 20 20:14:19 EET 2016choose 1 Menu item
